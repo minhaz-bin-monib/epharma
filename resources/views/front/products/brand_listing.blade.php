@@ -6,7 +6,7 @@
 
 <section class="all-categories container">
         <div>
-            <p > <?php echo $breadcrumb; ?></p>
+            <p>All Categories > Horlicks</p>
         </div>
 
         <div>
